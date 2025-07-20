@@ -1,6 +1,6 @@
-# TrackTango - Employee Attendance & Tasks App
+# Attendify  - Employee Attendance & Tasks App
 
-TrackTango is a Flutter-based application designed to manage employee attendance and tasks efficiently. This repository contains the source code for a cross-platform app that runs on both web and Android platforms.
+Attendify  is a Flutter-based application designed to manage employee attendance and tasks efficiently. This repository contains the source code for a cross-platform app that runs on both web and Android platforms.
 
 ## How to Run
 
@@ -16,7 +16,7 @@ TrackTango is a Flutter-based application designed to manage employee attendance
 1. **Clone the Repository**:
    ```bash
    git clone <repository-link>
-   cd tracktango
+   cd Attendify 
    ```
 2. **Install Dependencies**:
    ```bash
@@ -43,7 +43,7 @@ TrackTango is a Flutter-based application designed to manage employee attendance
 1. **Clone the Repository** (if not already done):
    ```bash
    git clone <repository-link>
-   cd tracktango
+   cd Attendify 
    ```
 2. **Install Dependencies**:
    ```bash
@@ -89,7 +89,7 @@ The following packages were selected for their functionality and compatibility w
 - **Data Persistence**: Both tasks and attendance records persist across app sessions using `shared_preferences`.
 
 ## Total Time Taken
-The development of TrackTango took approximately **18 hours**, broken down as follows:
+The development of Attendify took approximately **18 hours**, broken down as follows:
 - Project setup and dependency configuration: 2 hours
 - UI design and implementation: 5 hours
 - Attendance and task management logic: 7 hours
