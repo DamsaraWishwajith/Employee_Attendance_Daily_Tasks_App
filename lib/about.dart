@@ -13,7 +13,7 @@ class AboutScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'TrackTango',
+              'Attendify ',
               style: TextStyle(
                 fontSize: 25,
                 color: Color.fromARGB(255, 16, 8, 125),

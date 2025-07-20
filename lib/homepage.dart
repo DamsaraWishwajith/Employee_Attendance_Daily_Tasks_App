@@ -90,7 +90,7 @@ class _HomepageScreenState extends State<Homepage> {
                         fit: BoxFit.cover,
                       ),
                       Text(
-                        'TrackTango',
+                        'Attendify ',
                         style: TextStyle(
                           color: const Color.fromARGB(255, 11, 5, 91),
                           fontWeight: FontWeight.bold,
